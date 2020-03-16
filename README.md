@@ -1,0 +1,1 @@
+# vmware-clone-for-backup
